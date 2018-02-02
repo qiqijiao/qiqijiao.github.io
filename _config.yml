@@ -1,0 +1,49 @@
+# Basic
+title: liyuhong165
+subtitle: 时间是一个伟大的作者,它必将写出最完美的答案。
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: “不管全世界所有人怎么说，我都认为自己的感受才是正确的。无论别人怎么看，我绝不打乱自己的节奏。喜欢的事自然可以坚持，不喜欢怎么也长久不了。”
+creator: <a href="http://onev.cat">@onevcat</a>
+
+url: "http://vno.onevcat.com"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    weibo: onevcat
+    github: lyh165
+    twitter: onevcat
+    gplus: 107108267983477358170
+    mail: liyuhong165@163.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
